@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='#'>Affiliations</a>. School of Statistics, Capital University of Economics and Business. Beijing, China.
 profile:
   align: right
   image: prof_pic.jpg
