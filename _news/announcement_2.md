@@ -5,5 +5,5 @@ inline: false
 related_posts: false
 ---
 
-Our paper "Improved High Dimensional Discrete Bayesian Network Inference using Triplet Region Construction" has been invited to present at IJCAI 2021!
+Our paper "Improved High Dimensional Discrete Bayesian Network Inference using Triplet Region Construction" has been invited to present at IJCAI 2021! :sparkles: :sparkles:
 
