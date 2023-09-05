@@ -1,8 +1,6 @@
  github_repos:
   - penglin17/triplet-region-construction
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - penglin17/Region-based-PR
+  - penglin17/amortizedBNinference
+  - penglin17/stackingfactorization
+
