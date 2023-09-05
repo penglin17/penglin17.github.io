@@ -45,7 +45,7 @@ layout: default
     {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
 
-   <ul class="timeline">
+  <ul class="timeline">
   {% for entry in site.data.resume %}
     {% if site.jsonresume and site.jsonresume.size > 0 %}
       {% unless site.jsonresume contains entry[0] %}
