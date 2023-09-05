@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Peng Lin",
+    "label": "Academic",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "linpeng[at]cueb.edu.cn",
+   
+    
+    "summary": "Machine learning researcher",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "121 zhangjialukou",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
@@ -16,61 +16,56 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+         
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "School of Statistics, Capital University of Economics and Business",
+      "position": "Associate Professor of Statistics",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2017-01-01",
+      "endDate": "-",
+      "summary": "Teaching and research activities at huaxiang Campus, fengtai, Beijing. ",
       "highlights": [
-        "Relativity"
+       Absolutely
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "institution": "Queen Mary University of London, UK",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Machine Learning",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2011-02-01",
+      "endDate": "2015-01-01",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Computer Science"
+      ]
+    }
+
+       {
+      "institution": "Imperial College London, UK",
+      "url": "https://www.uzh.ch/",
+      "area": "Physics",
+      "studyType": "Academic visiting",
+      "startDate": "2009-09-30",
+      "endDate": "2010-09-01",
+      "score": "",
+      "courses": [
+        "Computer Science"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+ 
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+ 
   "interests": [],
   "references": [],
   "projects": []
