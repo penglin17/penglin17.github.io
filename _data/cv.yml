@@ -3,8 +3,7 @@
   contents:
     - name: Full Name
       value: Peng Lin
-    - name: Date of Birth
-      value: 14th March 1879
+   
 
 
 - title: Education
@@ -12,7 +11,7 @@
   contents:
     - title: PhD
       institution: Queen Mary University of London, London, United Kingdom
-      year: 2015
+      year: 2011.02-2015.01
       description:
         - Description 1.
         - Description 2.
