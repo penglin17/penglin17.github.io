@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /projects/
-description: to be updated...
+description: I deliver lectures for both undergraduate and postgraduate students. 
 nav: true
 nav_order: 3
 display_categories: [work]
