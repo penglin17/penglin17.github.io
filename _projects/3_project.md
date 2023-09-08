@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Quantitative anaysis for finance 
-description: a project that redirects to another website
+title: Quantitative Analysis for Finance 
+description: postgraduate course
 img: 
 
 importance: 3
