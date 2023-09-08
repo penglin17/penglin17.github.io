@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Financial Time Series
 description: a project with a background image
 img:
 importance: 1
