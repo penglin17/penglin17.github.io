@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: Risk analysis and modeling
 description: a project with a background image and giscus comments
 img:
 importance: 2
