@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: Teaching
 permalink: /projects/
 description: to be updated...
-nav: false
+nav: true
 nav_order: 3
 display_categories: [work]
 horizontal: false
