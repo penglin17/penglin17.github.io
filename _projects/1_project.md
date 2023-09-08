@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Financial Time Series
-description: a project with a background image
+description: Undergraduate course
 img:
 importance: 1
 category: work
