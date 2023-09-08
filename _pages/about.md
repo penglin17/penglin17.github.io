@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. School of Statistics, Capital University of Economics and Business. Beijing, China.
 profile:
