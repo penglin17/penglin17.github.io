@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. School of Statistics, Capital University of Economics and Business. Beijing, China.
 profile:
   align: right
-  image: nanjing.jpg
+  image: najing.jpg
   image_circular: false # crops the image to make it circular
  
 
