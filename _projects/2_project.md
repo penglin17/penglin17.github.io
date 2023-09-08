@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Risk analysis and modeling
-description: a project with a background image and giscus comments
+title: Risk Analysis and Modeling
+description: undergraduate course
 img:
 importance: 2
 category: work
