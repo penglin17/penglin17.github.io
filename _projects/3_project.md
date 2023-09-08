@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3
+title: Quantitative anaysis for finance 
 description: a project that redirects to another website
 img: 
 
