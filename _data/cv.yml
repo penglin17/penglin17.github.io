@@ -40,7 +40,20 @@
         
 
  
- 
+ - title: Academic Services
+  type: time_table
+  contents:
+    - title: Journal Reviewer
+      institution: Capital University of Economics and Business, Beijing, China
+      year: 2019.07- now
+      description:
+        - Journal of Artificial Intelligence Research
+        - International Journal of Approximate Reasoning
+        - Knowledge Based Systems
+        - International Journal of Intelligent Systems
+         
+          
+
 
  
 
